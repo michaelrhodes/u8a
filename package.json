@@ -1,6 +1,6 @@
 {
   "name": "u8a",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "a collection of functions for working with Uint8Array representations of strings",
   "main": "index.js",
   "devDependencies": {
